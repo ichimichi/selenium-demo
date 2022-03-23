@@ -10,5 +10,5 @@
 8. Add Selenium Java Dependency
 9. Download Chrome Driver
 10. Congifure Selenium WebDriver for Chrome Browser
-11. Launch Browser using selenium
+11. Launch Browser using selenium and open url `www.google.com`
 12. Build Project with Maven and run output jar through terminal
